@@ -1,5 +1,10 @@
+@font-face {
+    font-family: iransans;
+    src: url(../fonts/iransans.ttf);
+}
+
 body{
-    font-family: 'Lalezar', cursive;
+    font-family: iransans, cursive;
     font-size: 15px;
     line-height: 1.5;
     margin: 0;
@@ -27,7 +32,7 @@ ul{
     margin-left: 20px;
     margin-right: 20px;
     color: #ffffff;
-    font-family: 'Lalezar';
+    font-family: iransans;
     font-size: 18px;
 }
 
